@@ -210,28 +210,6 @@ Authorization: Bearer <your_jwt_token>
 
 ---
 
-## 🚀 Deployment
-
-### Heroku Example
-
-```bash
-heroku create your-app-name
-heroku config:set NODE_ENV=production
-heroku config:set MONGODB_URI=your_prod_db_uri
-heroku config:set JWT_SECRET=your_prod_jwt_secret
-heroku config:set STRIPE_SECRET_KEY=your_prod_stripe_key
-git push heroku main
-```
-
-### Other Platforms
-
-* AWS Elastic Beanstalk
-* Google Cloud Platform
-* Render
-* Railway
-
----
-
 ## 🔮 Future Enhancements
 
 * Product reviews & ratings

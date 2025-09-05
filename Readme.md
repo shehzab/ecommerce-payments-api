@@ -35,7 +35,7 @@ A complete, RESTful e-commerce backend API with Stripe payment integration, buil
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-payments-api.git
+git clone https://github.com/shehzab/ecommerce-payments-api.git
 cd ecommerce-payments-api
 ````
 
